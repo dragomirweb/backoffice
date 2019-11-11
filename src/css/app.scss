@@ -1,0 +1,17 @@
+// app global css in SCSS form
+.bg-secondary {
+    background-color: $secondary;
+}
+
+.color-secondary {
+    color: $secondary;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.active-submenu {
+    cursor: pointer;
+    background: darken($secondary, 18%) !important;
+}
